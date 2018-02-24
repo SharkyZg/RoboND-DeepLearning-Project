@@ -1,12 +1,14 @@
  # Project: RoboND Follow-Me Project
 
+![Simulator Screenshot](sim_screenshot.png)
+
 ## 1. Introduction
 
 The assignment of this project was to train the neural network that will enable the quadcopter in the Udacity's simulator to track a target. This has been achieved with the help of Fully Convolutional Networks as explained in this write-up.
 
 ## 2. Fully Convolutional Network Architecture.
 
-![FCN_graph](FCN_graph.png)
+![FCN Graph](FCN_graph.png)
 
 ### 2.1. Overview
 
